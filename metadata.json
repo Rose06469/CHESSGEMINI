@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chess",
+  "description": "A single-player chess game where you play against a powerful AI opponent powered by the Gemini API. Test your skills against a world-class chess engine.",
+  "requestFramePermissions": []
+}
